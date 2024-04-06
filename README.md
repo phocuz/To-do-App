@@ -1,2 +1,2 @@
 # To-do-App
-A simple webapp for To do app 
+A simple To do app 
